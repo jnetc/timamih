@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>icon-mail</title>
+  <g>
+    <path class="cls-1" d="M83.8,0H4.7L43,32a2.4,2.4,0,0,0,3.1,0Z"/>
+    <polygon class="cls-1" points="30.3 29.4 0 4.1 0 55.4 30.3 29.4"/>
+    <polygon class="cls-1" points="58.7 29.2 89 55.2 89 3.6 58.7 29.2"/>
+    <path class="cls-1" d="M53.8,33.2l-7.1,6a3.4,3.4,0,0,1-2.2.8,3.5,3.5,0,0,1-2.2-.8l-6.9-5.7L4.4,60H84.9Z"/>
+  </g>
+</svg>

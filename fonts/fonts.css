@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Exo2 Thin';
+	src: url('Exo2-Thin_0.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo2 Light';
+	src: url('Exo2-Light_0.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo2 Regular';
+	src: url('Exo2-Regular_0.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo2 Medium';
+	src: url('Exo2-Medium_0.ttf') format('truetype');
+}

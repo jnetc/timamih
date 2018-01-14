@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.2 69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000500;
+      }
+    </style>
+  </defs>
+  <title>geolocation</title>
+  <path class="cls-1" d="M20.1,0A20.1,20.1,0,0,0,0,20.1C0,31.2,20.1,69,20.1,69S40.2,31.2,40.2,20.1A20.1,20.1,0,0,0,20.1,0Zm0,30.7A11.2,11.2,0,1,1,31.3,19.5,11.2,11.2,0,0,1,20.1,30.7Z"/>
+</svg>
