@@ -10,3 +10,5 @@ nginx.conf
 *.rar
 *.zip
 *.7z
+*.psd
+*.ai
