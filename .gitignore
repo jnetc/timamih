@@ -1,9 +1,12 @@
 textolite/
 resource/
 doc/
-css/*.less
 images/original/
 images/old/
 .ftpconfig
 .htaccess
 nginx.conf
+*.less
+*.rar
+*.zip
+*.7z
