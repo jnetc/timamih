@@ -1,6 +1,7 @@
 textolite/
 Resource/
 resource/
+doc/
 .ftpconfig
 .htaccess
 nginx.conf
