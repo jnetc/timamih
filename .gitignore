@@ -1,5 +1,6 @@
 textolite/
 Resource/
 resource/
-npm-debug.log
 .ftpconfig
+.htaccess
+nginx.conf
