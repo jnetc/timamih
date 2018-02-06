@@ -1,8 +1,6 @@
 textolite/
 resource/
 doc/
-images/original/
-images/old/
 .ftpconfig
 .htaccess
 nginx.conf
