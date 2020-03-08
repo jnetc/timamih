@@ -1,0 +1,28 @@
+{
+	"menu": {
+		"link0": "В начало",
+		"link1": "Танцевальные события",
+		"link2": "Дневные события",
+		"link3": "Другие мероприятия",
+		"link4": "О нас"
+	},
+	"h1": "Тусовки и мероприятия в Хельсинки ",
+	"h2": {
+		"capt0": "Танцевальные события",
+		"capt1": "Дневные события",
+		"capt2": "Другие мероприятия",
+		"capt3": "О нас"
+	},
+	"in": "Вход",
+	"partbtn": "Наши партнеры",
+	"partner": {
+		"link0": {
+			"img": "./img/partner/fin-min.png",
+			"href": "http://intofinland.ru"
+		},
+		"link1": {
+			"img": "./img/partner/timamih-min.png",
+			"href": "https://timamih.com"
+		}
+	}
+}
