@@ -462,8 +462,8 @@ h1 {
       width: 100%;
       height: 100%;
       background: center no-repeat url(../images/timamih.png);
-      background-position: calc((100% - 50px) + 5px) 50%;
-      background-position: -webkit-calc((100% - 50px) + 5px) 50%;
+      background-position: 55% 50%;
+      // background-position: -webkit-calc((100% - 50px) + 5px) 50%;
     }
   }
 }
