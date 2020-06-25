@@ -1,4 +1,11 @@
 <svg id="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 60">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
   <g>
     <path class="cls-1" d="M83.8,0H4.7L43,32a2.4,2.4,0,0,0,3.1,0Z"/>
     <polygon class="cls-1" points="30.3 29.4 0 4.1 0 55.4 30.3 29.4"/>

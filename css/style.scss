@@ -284,6 +284,7 @@ h1 {
   }
   h1 {
     font-size: 55pt;
+    padding: 15px 0;
   }
   p:nth-of-type(1) {
     margin-top: 30px;
@@ -771,6 +772,23 @@ h1 {
           font-family: 'Exo2 Regular';
           pointer-events: none;
         }
+        > div.fake-btn {
+          display: none;
+          @media screen and 
+            (max-width: 1199px) {
+              display: block;
+              margin-top: 12px;
+              padding: 8px 15px;
+              background-color: $sero-oliv;
+              color: $svetlii;
+              border-radius: 5px;
+              font-family: 'Exo2 Light';
+              display: flex;
+              justify-content: center;
+              align-items: center;
+          }
+          
+        }
         ///// обратная сторона
         .back-side {
           width: 100%;
@@ -818,6 +836,7 @@ h1 {
               margin: 0px 5px;
               padding: 10px;
               border-radius: 50%;
+              fill: $svetlii;
               transition: all 0.3s ease;
               cursor: pointer;
               &:hover {
@@ -1466,6 +1485,7 @@ h1 {
       margin: 15px 0px 30px;
       font-size: 40pt;
       line-height: 40px;
+      padding: 0;
     }
     p:nth-of-type(1),
     p:nth-of-type(2) {
